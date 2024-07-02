@@ -18,5 +18,6 @@ class ViewController: UIViewController {
     // person1 추가
     // person2 추가
     // person4 추가
+    // person5 추가
 }
 
